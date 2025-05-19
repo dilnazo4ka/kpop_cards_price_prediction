@@ -66,7 +66,6 @@ docker run --platform=linux/arm64 -p 8501:8501 clip-streamlit-app
 
 ---
 
-## 📝 Author
-
-**Dilnaz Imanbayeva**  
+## Author
+Dilnaz Imanbayeva
 Kaggle: [@dilnazimanbaeva](https://www.kaggle.com/dilnazimanbaeva)
