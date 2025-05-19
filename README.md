@@ -42,7 +42,7 @@ Then, a regression model predicts the price.
 
 Example notebook:  
 [🔗 K-pop Price Prediction - Kaggle Notebook](https://www.kaggle.com/code/dilnazimanbaeva/kpop-price-prediciton)
-
+[🔗 K-pop Price Prediction EDA - Kaggle Notebook](https://www.kaggle.com/code/dilnazimanbaeva/kpop-eda)
 ---
 
 ##  Inference 
